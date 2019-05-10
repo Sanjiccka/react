@@ -5,12 +5,28 @@
     
 }
 
-.btn {
-    font-size: 16px;
-    color: #575757;
-    float: right;
-    margin-left: 15px;
+.icon-button {
+   float: right;
+   margin-left: 15px;
+   display: inline-block;
+   width: 20px;
+   height: 20px;
+   background: transparent;
+   border: 0px;
 }
+
+.edit-button{
+   background-image: url("../images/edit.svg");
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+
+.trash-button {
+   background-image: url("../images/trash-alt.svg");
+   background-repeat: no-repeat;
+   background-size: contain;
+}
+
 
 .newCalculationButton{
    background: #1dd1a1;

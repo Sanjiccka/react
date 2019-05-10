@@ -42,8 +42,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -53,8 +53,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn trash"> </button>
-                        <button className="btn edit"> </button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
 
                     </td>
                 </tr>
@@ -65,8 +65,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                        <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
 
                 </tr>
@@ -77,8 +77,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                        <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -88,8 +88,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -99,8 +99,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -110,8 +110,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -121,8 +121,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -132,8 +132,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -143,8 +143,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -154,8 +154,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -165,8 +165,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -176,8 +176,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -187,8 +187,8 @@ export class Products extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="btn"><i className="fa fa-edit"></i></button>
-                        <button className="btn"><i className="fa fa-trash"></i></button>
+                    <button className="icon-button edit-button"></button>
+                        <button className="icon-button trash-button"></button>
                     </td>
                 </tr>
             </table>

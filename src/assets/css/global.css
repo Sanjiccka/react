@@ -354,19 +354,7 @@ td {
      
  }
 
- .btn {
-     font-size: 16px;
-     color: #575757;
-     float: right;
-     margin-left: 15px;
-     display: inline-block;
- }
 
- .edit{
-     background-image: url("../images/edit.svg");
-     background-repeat: no-repeat;
-     background-size: contain;
- }
 
 .newCalculationButton{
     background: #1dd1a1;

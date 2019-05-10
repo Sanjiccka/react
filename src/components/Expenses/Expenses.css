@@ -1,0 +1,85 @@
+
+.tabs {
+    padding-left: 6%;
+}
+
+.activeButton {
+    background: #1dd1a1;
+    color: #fff;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.inactiveButton {
+    background: #c9e5dd;
+    color:#fff;
+    font-size: 15px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.selectBox {
+    height: 35px;
+    background: #fff;
+    border: 2px solid;
+    border-color: #c6c6c6;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.month {
+    margin-left: 60px;
+}
+
+.newTable {
+    padding-left: 6%;
+    padding-top: 30px;
+
+}
+
+table {
+    border-collapse:separate; 
+    border-spacing:0 13px;
+    width: 90%;
+    text-align: left;
+
+}
+
+th {
+    font-size: 16px;
+    color: #404040;
+    padding-bottom: 15px;
+    border-bottom: 1px solid;
+    border-color: #707070;
+    text-align: left;
+}
+
+.tableRow {
+    background: #fff;
+    font-size: 16px;
+    color:#575757;
+}
+
+td {
+    padding: 15px;
+    
+}
+
+.footer {
+    position:fixed;
+    left:0px;
+    bottom:0px;
+    height:55px;
+    width:100%;
+    background:#424949  ;
+ 
+ }
+ 
+ .footerText {
+    color:#fff;
+    font-size: 16px;
+    font-weight: bold;
+    margin-left: 75%;
+    padding-top: 17px;
+ }

@@ -1,0 +1,81 @@
+.input {
+    background: #fff;
+    border: 2px solid;
+    border-color: #c6c6c6;
+    border-radius: 5px;
+    height:50px;
+    width: 60%;
+    margin-left: 10%;
+    margin-right: 20%;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+
+.forma {
+    background: #ffff;
+    border-radius: 5px;
+    padding-top: 5%;
+   
+}
+
+.content-right {
+    width: 35%;
+    border-radius:5px;
+    vertical-align: middle;
+    float: left;
+    flex: 1;
+    background: #ffff;
+    
+}
+
+.submit {
+    font-size: 15px;
+    color:#fff;
+    background: #1dd1a1;
+    height: 50px;
+    box-shadow: 0px 0px 16px;
+    border-radius: 5px;
+    width: 60%;
+    margin-left: 10%;
+    margin-top: 35px;
+    margin-bottom: 10%;
+}
+
+.content-left {
+    width:35%;
+    float: left;
+    background:#e0e0d1;
+    flex: 1;
+    
+}
+
+.content {
+    width:70%;
+    display: flex;
+    padding-left: 6%;
+}
+
+.label_product {
+    margin-top:25px;
+    margin-bottom: 25px;
+    padding-left:6%;
+}
+    
+.paragraf_newProduct {
+    font-family: 'Roboto' sans-serif;
+    font-size: 18px;
+    color: #8d8d8d;
+    margin-top: 403px;
+    text-align: center;
+} 
+
+#circle{
+font-size:50px;
+color:grey;
+position:absolute;
+top:50%;
+left:57%;
+align-content: center;
+
+}

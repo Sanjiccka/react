@@ -1,0 +1,39 @@
+
+ .filter {
+    margin-left: 75%;
+    margin-top:25px;
+    
+}
+
+.btn {
+    font-size: 16px;
+    color: #575757;
+    float: right;
+    margin-left: 15px;
+}
+
+.newCalculationButton{
+   background: #1dd1a1;
+   font-size:  15px;
+   color:#fff;
+   border-radius:5px;
+   position:fixed;
+   right:8%;
+   bottom:14%;
+   height:50px;
+   width: 175px;
+   box-shadow: 0 0 16px rgba(0,0,0,0.17);
+}
+
+.newProductButton {
+   background:#576574;
+   font-size:  15px;
+   color:#fff;
+   border-radius:5px;
+   position:fixed;
+   right:8%;
+   bottom:7%;
+   height:50px;
+   width: 175px
+   
+}

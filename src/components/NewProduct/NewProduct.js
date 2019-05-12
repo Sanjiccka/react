@@ -2,6 +2,7 @@ import React from "react";
 import "./NewProduct.css";
 import { NavLink } from "react-router-dom";
 import { Header } from "../Header/Header.js";
+import circle from "../images/plus-circle.svg";
 
 
 
@@ -33,7 +34,7 @@ export class NewProduct extends React.Component {
         </div>
 
                             <div className="content-left">
-                                <i id="circle" className="fa fa-plus-circle"></i>
+                                <img id="circle" src={circle} />
                                 <p className="paragraf_newProduct">You are creating a new product</p>
                             </div>
 

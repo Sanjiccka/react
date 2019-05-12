@@ -1,0 +1,56 @@
+.newTable {
+    padding-left: 6%;
+    padding-top: 30px;
+
+}
+
+table {
+    border-collapse:separate; 
+    border-spacing:0 13px;
+    width: 90%;
+    text-align: left;
+
+}
+
+th {
+    font-size: 16px;
+    color: #404040;
+    padding-bottom: 15px;
+    border-bottom: 1px solid;
+    border-color: #707070;
+    text-align: left;
+}
+
+.tableRow {
+    background: #fff;
+    font-size: 16px;
+    color:#575757;
+}
+
+td {
+    padding: 15px;
+    
+}
+
+
+.icon-button {
+    float: right;
+    margin-left: 15px;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background: transparent;
+    border: 0px;
+ }
+ 
+ .edit-button{
+    background-image: url("../images/edit.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+ }
+ 
+ .trash-button {
+    background-image: url("../images/trash-alt.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+ }

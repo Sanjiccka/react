@@ -30,9 +30,9 @@ export class Products extends React.Component {
 
                     <div>
                         <button className="newCalculationButton" type="text">NEW CALCULATION</button>
-                        <button className="newProductButton" type="text">NEW PRODUCT</button>
+                        <NavLink className="newProductButton" to="/newProduct" className="newProductButton" >NEW PRODUCT</NavLink>
                     </div>
-                </div>
+                </div> 
 
             </section>
 

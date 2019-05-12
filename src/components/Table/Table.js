@@ -23,8 +23,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -34,8 +34,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
 
                     </td>
                 </tr>
@@ -46,8 +46,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
 
                 </tr>
@@ -58,8 +58,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                        <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -69,8 +69,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -80,8 +80,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -91,8 +91,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -102,8 +102,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -113,8 +113,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -124,8 +124,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -135,8 +135,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -146,8 +146,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -157,8 +157,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
                 <tr className="tableRow">
@@ -168,8 +168,8 @@ export class Table extends React.Component {
                     <td>19.04.2019</td>
                     <td colospan="2">75</td>
                     <td className="tableRowButton">
-                    <button className="icon-button edit-button"></button>
-                        <button className="icon-button trash-button"></button>
+                    <NavLink className="icon-button edit-button" to="/newProduct"></NavLink>
+                    <NavLink className="icon-button trash-button" to="/delete"></NavLink>
                     </td>
                 </tr>
             </table>

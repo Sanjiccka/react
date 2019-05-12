@@ -14,7 +14,7 @@
    border-radius:5px;
    position:fixed;
    right:8%;
-   bottom:14%;
+   bottom:15%;
    height:50px;
    width: 175px;
    box-shadow: 0 0 16px rgba(0,0,0,0.17);
@@ -28,7 +28,10 @@
    position:fixed;
    right:8%;
    bottom:7%;
-   height:50px;
-   width: 175px
+   height:35px;
+   width: 175px;
+   text-decoration: none;
+   padding-top: 15px;
+   text-align: center;
    
 }

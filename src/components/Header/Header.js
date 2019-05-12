@@ -1,6 +1,7 @@
 import React from "react";
 import "./Header.css";
 import avatar from "../images/Tesla3.png";
+import { NavLink } from "react-router-dom";
 
 
 export class Header extends React.Component {
@@ -9,8 +10,8 @@ export class Header extends React.Component {
             <section id="products">
 
             <div className="header">
-        <button className="productButton" type="text">PRODUCTS</button>
-        <button className="expencesButton" type="text">EXPENCES</button>
+        <NavLink className="productButton" to="/products">PRODUCTS</NavLink>
+        <NavLink className="expencesButton" to="/expenses">EXPENCES</NavLink>
         <div className="header-right">
             <img src={avatar} className="avatar" />
             <p className="userName">Cal Galot</p>

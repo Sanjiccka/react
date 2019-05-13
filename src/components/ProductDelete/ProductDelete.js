@@ -36,8 +36,8 @@ export class ProductDelete extends React.Component {
                             <h3>Delete Product</h3>
                             <span>You are about to delete this product. Are you sure you wish to continue ?</span>
                             <div className="popBtn">
-                                <button className="btnCancel" type="text" value="cancel">CANCEL</button>
-                                <button className="btnDelete" type="text" value="delete">DELETE</button>
+                                <NavLink className="btnCancel" to="/expenses" >CANCEL</NavLink>
+                                <NavLink className="btnDelete" to="/products">DELETE</NavLink>
                             </div>
                         </div>
                     </div>

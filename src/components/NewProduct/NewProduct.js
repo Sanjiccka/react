@@ -20,15 +20,15 @@ export class NewProduct extends React.Component {
                         <div className="content-right">
                             <form className="forma">
                                 <label className="label">Product Name</label>
-                                <input className="input" type="text" placeholder=" " />
+                                <input className="input" type="text" name="pName" placeholder=" " />
                                 <label className="label">Product Description</label>
-                                <input className="input" type="text" placeholder=" " />
+                                <input className="input" type="text" name="pDescription" placeholder=" " />
                                 <label className="label">Product Type</label>
-                                <input className="input" type="text" placeholder=" " />
+                                <input className="input" type="text" name="pType" placeholder=" " />
                                 <label className="label">Purchase Date</label>
-                                <input className="input" type="number" placeholder=" " />
+                                <input className="input" type="date" name="pDate" placeholder=" " />
                                 <label className="label">Product Price</label>
-                                <input className="input" type="text" placeholder=" " />
+                                <input className="input" type="text" name="price" placeholder=" " />
                                 <input className="submit" type="submit" value="CREATE PRODUCT" />
             </form>
         </div>

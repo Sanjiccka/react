@@ -11,9 +11,9 @@ export class Login extends React.Component {
                     <div>
                         <form className="forma_login">
                             <label className="label_login">E-mail</label>
-                            <input className="input_login" type="email" placeholder=" " />
+                            <input className="input_login" type="email" name="emailLogin" placeholder=" " />
                                 <label className="label_login">Password</label>
-                                <input className="input_login" type="password" placeholder=" " />
+                                <input className="input_login" type="password" name="passLogin" placeholder=" " />
                                     <input className="submit_login" type="submit" value="SIGN IN" />
                     </form>
                                     <p className="paragraf_login">Or if you don't have an account,

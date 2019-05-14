@@ -8,7 +8,7 @@ export class Expenses extends React.Component {
     render() {
         return (
             <section id="expenses">
-                <Header />
+                {/* <Header /> */}
 
                 <div>
                     <h2 class="label_product"> Expenses</h2>

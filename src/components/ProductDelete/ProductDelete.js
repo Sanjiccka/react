@@ -8,7 +8,7 @@ export class ProductDelete extends React.Component {
     render() {
         return (
             <section id="productDelete">
-                <Header />
+                {/* <Header /> */}
                 <div>
                     <div>
                         <h2 className="label_product">Products</h2>

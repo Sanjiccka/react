@@ -10,7 +10,7 @@ export class Products extends React.Component {
     render() {
         return (
             <section id="products">
-                <Header />
+                {/* <Header /> */}
                 <div>
                     <div>
                         <h2 className="label_product">Products</h2>
